@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+
+token prueba juan
+token de prueba JessicaBuitrago
+token 2
+=======
+juan manuel herrero token
+>>>>>>> afe7663faae6494b77178bd61cac3e15a71bb9e3
